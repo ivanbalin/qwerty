@@ -1,0 +1,10 @@
+#exercises
+
+**tmp/??.png
+
+**/*.php
+
+!/public/\!index.php
+
+**/*.jpg
+!/public/tmp/*.jpg
